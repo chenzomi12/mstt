@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+recursive-include msprobe *
+recursive-exclude msprobe/test *
+recursive-exclude msprobe/ccsrc *
+
